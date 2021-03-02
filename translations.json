@@ -1,0 +1,14 @@
+{
+    "fr": {
+        "langBonjour": "Bonjour, ça va ?",
+        "flag": "./img/france.png"
+    },
+    "en": {
+        "langBonjour": "Hello, how are you?",
+        "flag": "./img/uk.png"
+    },
+    "es": {
+        "langBonjour": "Hola, ¿cómo estás?",
+        "flag": "./img/es.png"
+    }
+}
